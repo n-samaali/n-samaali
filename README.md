@@ -1,7 +1,7 @@
 ### Nice to meet you 👋
 
-- I'm currently studying Pure and Applied Sciences @ Dawson College
-- Admitted to Computer Engineering (B.Eng) @ McGill University
+- 🔭 I'm currently studying Pure and Applied Sciences @ Dawson College
+- 🌱 Admitted to Computer Engineering (B.Eng) @ McGill University
 
 <!--
 **NadeemSamaali/NadeemSamaali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
