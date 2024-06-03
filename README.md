@@ -1,6 +1,6 @@
 ### Nice to meet you 👋
 
-My name is Nadeem and I'm a student enrolled in McGill's Facutly of Enginnering in Computer Engineering. Welcome to my github repository !
+My name is Nadeem and I study computer engineering at McGill. Welcome to my github profile !
 
 
 <!--
