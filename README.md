@@ -1,7 +1,7 @@
 ### Nice to meet you 👋
 
-- 🔭 I'm currently studying Pure and Applied Sciences @ Dawson College
-- 🌱 Admitted to Computer Engineering (B.Eng) @ McGill University
+My name is Nadeem and I'm a student enrolled at McGill's Facutly of Enginnering in Computer Engineering. Welcome to my github repository !
+
 
 <!--
 **NadeemSamaali/NadeemSamaali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
