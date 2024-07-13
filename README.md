@@ -1,6 +1,6 @@
-### Nice to meet you 👋
+### Nice to meet you ! 👋
 
-My name is Nadeem and I study Computer Engineering at McGill university. Welcome to my github profile !
+My name is Nadeem and I am a U1 Computer Egninnering student @McGill University. Welcome to my github profile !
 
 
 <!--
