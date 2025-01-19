@@ -4,11 +4,11 @@ My name is Nadeem and I am a U1 Computer Engineering student @McGill University.
 
 ---
 
-### Currently working on 
+### Currently working on ...
 
 [Radon](https://github.com/NadeemSamaali/Radon) : A language learning tool assisting self-teaching individuals by generating worksheets to enhance vocabulary and syntaxic skills. Currently supporting French, Spanish, Mandarin, Japanese and Korean. 
 
-### Checkout my projects
+### Checkout my projects !
 
 [LinearSpace](https://github.com/NadeemSamaali/LinearSpace) :  LinearSpace is a library which deals with a multitude of linear algebra operations (determinant, inverse, solving linear systems, ...) 
 
