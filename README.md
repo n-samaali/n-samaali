@@ -13,9 +13,12 @@ My name is Nadeem and I am a U1 Computer Engineering student @McGill University.
 [FieldMappr](https://github.com/NadeemSamaali/FieldMappr) :  Library for mapping electric fields in three dimensions from vraious configuration of points, rods and/or rings of charge. 
 
 ### Let's connect !
-Here is my contact information 
+Here is my contact information
+
 [LinkedIn](https://www.linkedin.com/in/nadeem-samaali/)
+
 [Devpost](https://devpost.com/NadeemSamaali?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
+
 [Email me!](nadeem.samaali@gmail.com)
 <!--
 **NadeemSamaali/NadeemSamaali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
