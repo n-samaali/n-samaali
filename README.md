@@ -2,6 +2,8 @@
 
 My name is Nadeem and I am a U1 Computer Engineering student @McGill University. Welcome to my github profile !
 
+---
+
 ### Currently working on 
 
 [Radon](https://github.com/NadeemSamaali/Radon) : A language learning tool assisting self-teaching individuals by generating worksheets to enhance vocabulary and syntaxic skills. Currently supporting French, Spanish, Mandarin, Japanese and Korean. 
@@ -11,6 +13,8 @@ My name is Nadeem and I am a U1 Computer Engineering student @McGill University.
 [LinearSpace](https://github.com/NadeemSamaali/LinearSpace) :  LinearSpace is a library which deals with a multitude of linear algebra operations (determinant, inverse, solving linear systems, ...) 
 
 [FieldMappr](https://github.com/NadeemSamaali/FieldMappr) :  Library for mapping electric fields in three dimensions from vraious configuration of points, rods and/or rings of charge. 
+
+---
 
 ### Let's connect !
 Here is my contact information
