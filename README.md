@@ -19,7 +19,7 @@ Hello! I'm **Nadeem Samaali**, a Computer Engineering student at McGill Universi
   - Performs arithmetic calculations.
   - Additional features in development.
 - **Technologies:** Python, Flask, React, TensorFlow, NLTK.
-- 
+
 ### [FieldMappr](https://github.com/NadeemSamaali/FieldMappr)
 
 **Description:** A library for visualizing electric fields in three dimensions based on user-defined configurations of charged points, rods, and rings.
