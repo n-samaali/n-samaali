@@ -25,14 +25,6 @@ Hello! I'm **Nadeem Samaali**, a Computer Engineering student at McGill Universi
   - 3D visualizations using Matplotlib.
 - **Technologies:** Python, Matplotlib.
 
-### [LinearSpace](https://github.com/NadeemSamaali/LinearSpace)
-**Description:** A library focused on linear algebra operations.
-- **Features:**
-  - Determinants and inverses.
-  - Solving linear systems.
-  - Other essential linear algebra functions.
-- **Technologies:** Python, NumPy.
-
 ## Technical Skills
 - **Programming Languages:** Java, Python, C, Shell.
 - **Developer Tools:** Git, Visual Studio Code, Ubuntu, Neovim, Linux, Bash.
