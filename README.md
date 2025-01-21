@@ -1,37 +1,48 @@
-### Nice to meet you ! 👋
+# Welcome to my GitHub Profile
 
-My name is Nadeem and I am a U1 Computer Engineering student @McGill University. Welcome to my github profile !
+Hello! I'm **Nadeem Samaali**, a Computer Engineering student at McGill University, passionate about building tools and software that bridge creativity and technology. Here you'll find some of the projects I’ve worked on, showcasing my skills in programming, problem-solving, and design. Feel free to explore and contribute to any of my repositories!
 
----
+## Featured Projects
 
-### Currently working on ...
+### [Radon](https://github.com/NadeemSamaali/radon)
+**Description:** A language learning tool designed to assist self-teaching individuals by generating personalized worksheets to enhance vocabulary and syntactic skills.
+- **Features:** Supports French, Spanish, Mandarin, Japanese, and Korean.
+- **Technologies:** Python, NLP.
 
-[Radon](https://github.com/NadeemSamaali/Radon) : A language learning tool assisting self-teaching individuals by generating worksheets to enhance vocabulary and syntaxic skills. Currently supporting French, Spanish, Mandarin, Japanese and Korean. 
+### [Demyst.io](https://github.com/NadeemSamaali/demystio)
+**Description:** A locally hosted web application with a natural language processing chatbot assistant capable of performing various tasks.
+- **Features:**
+  - Retrieves Wikipedia article summaries.
+  - Engages in basic social interactions.
+  - Performs arithmetic calculations.
+  - Additional features in development.
+- **Technologies:** Python, Flask, React, TensorFlow, NLTK.
 
-### Checkout my projects !
+### [FieldMappr](https://github.com/NadeemSamaali/FieldMappr)
+**Description:** A library for visualizing electric fields in three dimensions based on user-defined configurations of charged points, rods, and rings.
+- **Features:**
+  - Supports dynamic charge configuration.
+  - 3D visualizations using Matplotlib.
+- **Technologies:** Python, Matplotlib.
 
-[LinearSpace](https://github.com/NadeemSamaali/LinearSpace) :  LinearSpace is a library which deals with a multitude of linear algebra operations (determinant, inverse, solving linear systems, ...) 
+### [LinearSpace](https://github.com/NadeemSamaali/LinearSpace)
+**Description:** A library focused on linear algebra operations.
+- **Features:**
+  - Determinants and inverses.
+  - Solving linear systems.
+  - Other essential linear algebra functions.
+- **Technologies:** Python, NumPy.
 
-[FieldMappr](https://github.com/NadeemSamaali/FieldMappr) :  Library for mapping electric fields in three dimensions from vraious configuration of points, rods and/or rings of charge. 
+## Technical Skills
+- **Programming Languages:** Java, Python, C, Shell.
+- **Developer Tools:** Git, Visual Studio Code, Ubuntu, Neovim, Linux, Bash.
+- **Frameworks & Libraries:** Flask, TensorFlow, NLTK, NumPy, Matplotlib, Plotly.
+- **Languages:** Fluent in French and English.
 
----
+## Let’s Connect
+- **Email:** [nadeem.samaali@gmail.com](mailto:nadeem.samaali@gmail.com)
+- **LinkedIn:** [linkedin.com/in/nadeem-samaali](https://www.linkedin.com/in/nadeem-samaali/)
+- **GitHub:** [github.com/NadeemSamaali](https://github.com/NadeemSamaali)
 
-### Let's connect !
-Here is my contact information
+Thank you for stopping by, and I look forward to collaborating with you!
 
-[LinkedIn](https://www.linkedin.com/in/nadeem-samaali/) | [Devpost](https://devpost.com/NadeemSamaali?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
-| [Email me!](nadeem.samaali@gmail.com)
-<!--
-**NadeemSamaali/NadeemSamaali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
