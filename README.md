@@ -4,11 +4,13 @@ Hello! I'm **Nadeem Samaali**, a Computer Engineering student at McGill Universi
 
 ## Featured Projects
 
-|### [Radon](https://github.com/NadeemSamaali/radon)|### [Demyst.io](https://github.com/NadeemSamaali/demystio)|### [FieldMappr](https://github.com/NadeemSamaali/FieldMappr)|
+### [Radon](https://github.com/NadeemSamaali/radon)
 
 **Description:** A language learning tool designed to assist self-teaching individuals by generating personalized worksheets to enhance vocabulary and syntactic skills.
 - **Features:** Supports French, Spanish, Mandarin, Japanese, and Korean.
 - **Technologies:** Python, NLP.
+
+### [Demyst.io](https://github.com/NadeemSamaali/demystio)
 
 **Description:** A locally hosted web application with a natural language processing chatbot assistant capable of performing various tasks.
 - **Features:**
@@ -17,6 +19,8 @@ Hello! I'm **Nadeem Samaali**, a Computer Engineering student at McGill Universi
   - Performs arithmetic calculations.
   - Additional features in development.
 - **Technologies:** Python, Flask, React, TensorFlow, NLTK.
+- 
+### [FieldMappr](https://github.com/NadeemSamaali/FieldMappr)
 
 **Description:** A library for visualizing electric fields in three dimensions based on user-defined configurations of charged points, rods, and rings.
 - **Features:**
