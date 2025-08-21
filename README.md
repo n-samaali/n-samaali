@@ -1,4 +1,4 @@
-### Hi, I’m Nadeem. Welcome to my GitHub profile 🐱‍🐉
+### Hi, I’m Nadeem. Welcome to my GitHub profile 🦖
 
 I’m **Nadeem Samaali**, a U2 Computer Engineering student @ `McGill University`. My interests span **software systems, AI, and hardware-software integration**, with hands-on experience in both **academic and industry settings**. 
 
