@@ -2,10 +2,10 @@
 
 I’m **Nadeem Samaali**, a U2 Computer Engineering student @ `McGill University`. My interests span **software systems, AI, and hardware-software integration**, with hands-on experience in both **academic and industry settings**. Over the past few years, I’ve:  
 
-> 💻 Acquired experience in **C#, .NET, Python, Java, C, Lua**  
-> 🔗 Designed and implemented REST API integrations
-> ⚡ Built automation tools, backend systems, and AI-powered applications  
-> 🤝 Partook in hackathons and collaborative projects  
+* 💻 Acquired experience in **C#, .NET, Python, Java, C, Lua**  
+* 🔗 Designed and implemented REST API integrations
+* ⚡ Built automation tools, backend systems, and AI-powered applications  
+* 🤝 Partook in hackathons and collaborative projects  
 
 ### Tech Stack
 <p align="center">
@@ -18,6 +18,6 @@ I’m **Nadeem Samaali**, a U2 Computer Engineering student @ `McGill University
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
-> 💡 Feel free to check out my pinned repositories.  
-> 🙏 Thanks for passing by!
+* 💡 Feel free to check out my pinned repositories.  
+* 🙏 Thanks for passing by!
 
