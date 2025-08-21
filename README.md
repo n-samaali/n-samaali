@@ -8,7 +8,7 @@ Over the past few years, I’ve:
 * ⚡ Built automation tools, backend systems, and AI-powered applications  
 * 🤝 Partook in hackathons and collaborative projects  
 
-### Tech Stack
+### Tech Stack 🦕
 Here’s an overview of the programming languages and tools I use to develop software, backend systems, and AI applications:
 <p align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
@@ -22,5 +22,5 @@ Here’s an overview of the programming languages and tools I use to develop sof
 </p>
 
 
-#### Feel free to check out my pinned repositories. Thanks for passing by!
+#### Feel free to check out my pinned repositories. Thanks for passing by! 🦏
 
