@@ -1,6 +1,6 @@
 ### Hi, I’m Nadeem
 
-I’m **Nadeem Samaali**, a U2 Computer Engineering student at McGill University.  
+I’m **Nadeem Samaali**, a U2 Computer Engineering student @ McGill University.  
 I enjoy working at the intersection of **software, AI, and systems**, with experience spanning:  
 
 - **C#, .NET, Python, Java, C, Lua**  
@@ -16,4 +16,5 @@ I enjoy working at the intersection of **software, AI, and systems**, with exper
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
- 
+
+> Feel free to check out some of my pinned repositories. Thank you for passing by!
