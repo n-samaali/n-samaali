@@ -1,16 +1,13 @@
-### Hi, I’m Nadeem 👋
+### Hi, I’m Nadeem. Welcome to my GitHub profile 🐱‍🐉
 
-I’m **Nadeem Samaali**, a U2 Computer Engineering student @ McGill University.  
+I’m **Nadeem Samaali**, a U2 Computer Engineering student @ `McGill University`. My interests span **software systems, AI, and hardware-software integration**, with hands-on experience in both **academic and industry settings**. Over the past few years, I’ve:  
 
-> 🎯 I enjoy working at the intersection of **software, AI, and systems**.  
-> 💻 Experience with **C#, .NET, Python, Java, C, Lua**  
-> 🔗 REST API development & integration  
-> ⚡ Automation tools, backend systems, and AI-powered applications  
-> 🤝 Hackathons and collaborative projects  
+> 💻 Acquired experience in **C#, .NET, Python, Java, C, Lua**  
+> 🔗 Designed and implemented REST API integrations
+> ⚡ Built automation tools, backend systems, and AI-powered applications  
+> 🤝 Partook in hackathons and collaborative projects  
 
----
-
-### 🛠 Tech Stack
+### Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
@@ -20,8 +17,6 @@ I’m **Nadeem Samaali**, a U2 Computer Engineering student @ McGill University.
   <img src="https://img.shields.io/badge/Lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white"/>
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
-
----
 
 > 💡 Feel free to check out my pinned repositories.  
 > 🙏 Thanks for passing by!
