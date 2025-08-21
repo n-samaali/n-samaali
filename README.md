@@ -22,6 +22,5 @@ Here’s an overview of the programming languages and tools I use to develop sof
 </p>
 
 
->> 💡 Feel free to check out my pinned repositories.  
->> 🙏 Thanks for passing by!
+### Feel free to check out my pinned repositories. Thanks for passing by!
 
