@@ -9,7 +9,8 @@ Over the past few years, I’ve:
 * 🤝 Partook in hackathons and collaborative projects  
 
 ### Tech Stack
-> <p align="center">
+Here’s an overview of the programming languages and tools I use to develop software, backend systems, and AI applications:
+<p align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
@@ -21,6 +22,6 @@ Over the past few years, I’ve:
 </p>
 
 
-* 💡 Feel free to check out my pinned repositories.  
-* 🙏 Thanks for passing by!
+>> 💡 Feel free to check out my pinned repositories.  
+>> 🙏 Thanks for passing by!
 
